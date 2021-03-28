@@ -1,4 +1,4 @@
 # app name
 Bootstrapped graphql, express, node, typeorm, redis, postgres server
 
-![example branch parameter](https://github.com/github/docs/actions/workflows/ci.yml/badge.svg?branch=main)
+![continuous integration](https://github.com/tina-coding/bootstrap-graphql-server-pckg/workflows/CI/badge.svg?branch=main)
